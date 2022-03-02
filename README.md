@@ -22,7 +22,7 @@ The only way to learn a new programming language is by writing programs in it
 
 ## 🛠️ My Skills
 
-----
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## Programming Languages
