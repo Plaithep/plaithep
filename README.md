@@ -8,8 +8,6 @@
 
 The only way to learn a new programming language is by writing programs in it
 
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=uptagi56c75v4vnwlhgp2ze3g)
 ## :computer: Technologies I Love
 
 * NestJS
