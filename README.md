@@ -1,20 +1,3 @@
-### Hey,[Plaithep Polratanapaibool]()<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Plaithep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/plaithep-polratanapaibool-264b021a7/)](https://www.linkedin.com/in/plaithep-polratanapaibool-264b021a7/) [![Gmail Badge](https://img.shields.io/badge/-polratanapaibool.p@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:polratanapaibool.p@gmail.com)](mailto:asterp04@gmail.com)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plaithep&label=Profile%20views&color=0e75b6&style=flat" alt="plaithep" /> </p>
-
-The only way to learn a new programming language is by writing programs in it
-
-## :computer: Technologies I Love
-
-* NestJS
-* Flutter
-* quasar
-* Frontend and Backend Web Development
-
 
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=plaithep&show_icons=true&locale=en&layout=compact&theme=algolia" alt="plaithep" /></p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
